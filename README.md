@@ -1,5 +1,5 @@
 # emoMusicDataset
 
-[] Never Meant
-[] Never Meant
-[needs rhythm] Bummer Summer
+- [x] Never Meant
+- [x] Irrevocable Motherfucker
+- [] Bummer Summer (needs rhythm)
