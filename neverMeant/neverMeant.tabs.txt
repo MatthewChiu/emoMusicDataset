@@ -1,5 +1,8 @@
+!!!COM: American Football
+!!!OTL: Never Meant
+!!!YEAR: 1999
 *k[C]
-*t[FACGCE]
+*t[c0-FACGCE]
 *M(6/4)
 =1
 8(0,2)
