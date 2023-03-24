@@ -1,0 +1,67 @@
+!!!COM: Macseal
+!!!OTL: cats
+**recip	**kern
+*C	*C
+*	*AT:F2
+*	*RT:0:7:14:19:23:27
+*M(4/4)	*M(4/4)
+=1	=1
+4.	FF C G c
+16	cc
+16	dd-
+8	.
+8	g
+8	a
+8	.
+=2	=2
+8	r
+8	AA C G e
+8	AA C G e
+8	AA C G e
+8	AA C G e
+4	GG C G d
+8	FF C G c
+=3	=3
+4.	.
+16	cc
+16	dd-
+8	.
+8	g
+8	a
+8	.
+=4	=4
+8	r
+8	AA C G e
+8	AA C G e
+8	AA C G e
+8	AA C G e
+4	C G g
+8	FF C G c
+=5	=5
+4.	.
+16	cc
+16	dd-
+8	.
+8	g
+8	a
+8	.
+=6	=6
+8	r
+8	AA C G e
+8	AA C G e
+8	AA C G e
+8	AA C G e
+4	GG C G d
+8	C G g
+=7	=7
+1	C g
+=8	=8
+8	e
+8	f
+8	e
+8	f
+8	g
+8	e
+8	c
+8	.
+*-	*-

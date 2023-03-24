@@ -1,7 +1,7 @@
-!!!COM: The composer
-!!!OTL: The title
-**recip	*fret
-*k[C]	*k[C]
+!!!COM: Charmer
+!!!OTL: Bummer Summer 
+**recip	**fret
+*C	*C
 *	*AT:F2
 *	*RT:0:4:7:14:19:23
 *M	*M
