@@ -1,7 +1,7 @@
 !!!COM: Glocca Morra
 !!!OTL: Irrevocable Motherfucker
 **recip	**fret
-*C	*C
+*C:	*C:
 *	*AT:D2
 *	*RT:0:7:14:19:23:26
 *M(4/4)	*M(4/4)
