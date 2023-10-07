@@ -1,6 +1,6 @@
 !!!COM: 	Free Throw
 !!!OTL: 	Pallet Town
-!!!YEAR:	 2014
+!!!YEAR:	2014
 **recip		**fret
 *B:		*B:
 *		*AT:E2
