@@ -4,7 +4,7 @@
 ! Bridge around 2:36
 **recip	**fret
 *k[]	*k[]
-*Ab:	*Ab:
+*Eb:	*Eb:
 *	*AT:Ab2
 *	*RT:0:4:7:14:19:23
 *M(4/4)	*M(4/4)

@@ -4,7 +4,7 @@
 ! Certain chords were not possible with standard—this selection is the licks between the chords ~1:37
 **recip	**fret
 *Ab:	*Ab:
-*	*AT:D-2
+*	*AT:Db2
 *	*RT:0:7:14:19:23:26
 *M(4/4)	*M(4/4)
 =1	=1

@@ -1,16 +1,17 @@
 !!!COM: TRSH
 !!!OTL: Dad Rock 
+!!!YEAR: 2022
 **recip	**kern
 *F:	*F:
-*	*AT:E2
-*	*RT:0:5:10:15:19:24
+*	*AT:F2
+*	*RT:0:7:12:16:19:24
 *M(4/4)	*M(4/4)
 =1	=1
 4.	BB- A
-16	e
-16	f
-16	e
-16	c
+16	A
+16	B-
+16	A
+16	F
 8	FF C F A
 4	GG C F A
 =2	=2
@@ -25,19 +26,19 @@
 8	c
 =3	=3
 4.	BB- A
-16	e
-16	f
-16	e
-16	c
-8	FF C F A
-4	GG C F A
+16	A
+16	B-
+16	A
+16	F
+8 	FF C F A
+4 	GG C F A
 =4	=4
-8	.
+8 	.
 16	F
 16	G
-8	A
-8	F
-8	c
-8	A
-4	e
+8 	A
+8 	A
+8 	c
+8 	A
+4 	e
 *-	*-

@@ -2,7 +2,7 @@
 !!!OTL: Irrevocable Motherfucker
 **recip	**fret
 *C:	*C:
-*	*AT:D2
+*	*AT:F2
 *	*RT:0:7:14:19:23:26
 *M(4/4)	*M(4/4)
 =1	=1

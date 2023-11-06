@@ -1,20 +1,21 @@
 !!!COM: Macseal
 !!!OTL: cats
+!!!YEAR: 2014
 **recip	**kern
 *C:	*C:
 *	*AT:F2
-*	*RT:0:7:14:19:23:27
+*	*RT:0:7:14:19:23:26
 *M(4/4)	*M(4/4)
 =1	=1
 4.	FF C G c
+16	b
 16	cc
-16	dd-
-8	a-
+8	g
 8	g
 8	a
 8	e
 =2	=2
-8	r
+8	.
 8	AA C G e
 8	AA C G e
 8	AA C G e
@@ -23,14 +24,14 @@
 [8	FF C G c
 =3	=3
 4.]	FF C G c
+16	b
 16	cc
-16	dd-
-8	a-
+8	g
 8	g
 8	a
 8	e
 =4	=4
-8	r
+8	.
 8	AA C G e
 8	AA C G e
 8	AA C G e
@@ -39,14 +40,14 @@
 [8	FF C G c
 =5	=5
 4.]	FF C G c
+16	b
 16	cc
-16	dd-
-8	a-
+8	g
 8	g
 8	a
 8	e
 =6	=6
-8	r
+8	.
 8	AA C G e
 8	AA C G e
 8	AA C G e
@@ -63,5 +64,5 @@
 8	g
 8	e
 8	c
-8	r
+8	.
 *-	*-
